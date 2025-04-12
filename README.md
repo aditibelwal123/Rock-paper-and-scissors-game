@@ -4,16 +4,9 @@ A simple and interactive Rock, Paper, Scissors game builhttps://github.com/aditi
 
 ---
 
-## 🔗 Live Demo
+
 git clone https://github.com/aditibelwal123/Rock-paper-and-scissors-game
 
-
-## 🖼️ Preview
-
-![Game Preview]("C:\Users\Aditi\Desktop\git and github\rockpaperscissors game\picture.jpg")  
-<!-- Replace with a screenshot or GIF if available -->
-
----
 
 ## 📌 Features
 
