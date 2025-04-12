@@ -24,19 +24,6 @@ A simple and interactive Rock, Paper, Scissors game built using **HTML**, **CSS*
 
 ---
 
-## 🔗 Live Demo
-
-👉 [Play Now](https://aditibelwal123.github.io/Rock-paper-scissors-game/)  
-*(Replace the link with your actual GitHub Pages URL once deployed)*
-
----
-
-## 📷 Preview
-
-![Game Screenshot](screenshot.png)  
-*(Add a screenshot or animated GIF to showcase the game)*
-
----
 
 ## 🧩 Features
 
