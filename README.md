@@ -3,11 +3,6 @@
 A simple and interactive Rock, Paper, Scissors game builhttps://github.com/aditibelwal123/Rock-paper-and-scissors-game/tree/maint using **HTML**, **CSS**, and **JavaScript**. Play against the computer and see if you can win!
 
 ---
-
-
-git clone https://github.com/aditibelwal123/Rock-paper-and-scissors-game
-
-
 ## 📌 Features
 
 - 🎯 User vs. Computer gameplay
@@ -37,7 +32,7 @@ Follow these steps to run the game locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/aditibelwal123 /rock-paper-scissors.git
 📬 Contact
 
 ---
