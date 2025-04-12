@@ -54,10 +54,10 @@ rock-paper-scissors/ ├── index.html # Main HTML file ├── style.css #
 To run this project locally:
 
 1. **Clone the repository:**
-   ```bash
+
    git clone https://github.com/aditibelwal123/Rock-paper-scissors-game.git
 
-   🌐 How to Deploy on GitHub Pages
+🌐 How to Deploy on GitHub Pages
 Push your project to a GitHub repository.
 
 Go to Settings > Pages in your GitHub repo.
