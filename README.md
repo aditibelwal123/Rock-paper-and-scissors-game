@@ -1,15 +1,12 @@
 # 🎮 Rock, Paper, Scissors Game
 
-A simple and interactive Rock, Paper, Scissors game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer and see if you can win!
+A simple and interactive Rock, Paper, Scissors game builhttps://github.com/aditibelwal123/Rock-paper-and-scissors-game/tree/maint using **HTML**, **CSS**, and **JavaScript**. Play against the computer and see if you can win!
 
 ---
 
 ## 🔗 Live Demo
+git clone https://github.com/aditibelwal123/Rock-paper-and-scissors-game
 
-👉 [Play the Game](https://aditibelwal123.github.io/rock-paper-scissors)  
-<!-- Replace the link with your actual GitHub Pages URL if deployed -->
-
----
 
 ## 🖼️ Preview
 
