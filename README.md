@@ -48,27 +48,28 @@ A simple and interactive Rock, Paper, Scissors game built using **HTML**, **CSS*
 rock-paper-scissors/ ├── index.html # Main HTML file ├── style.css # Styling the game └── script.js # JavaScript logic
 
 ---
+🚀 Getting Started
+You can run this project locally by following these steps:
 
-## 🚀 Getting Started
+1. Clone the repository
+git clone https://github.com/aditibelwal123/Rock-paper-and-scissors-game.git
 
-To run this project locally:
+Navigate to the project folder
+cd netflix-clone
 
-1. **Clone the repository:**
+🛠️ Tools Used HTML5
 
-   git clone https://github.com/aditibelwal123/Rock-paper-scissors-game.git
+CSS3
 
-🌐 How to Deploy on GitHub Pages
-Push your project to a GitHub repository.
+JavaScript (Vanilla)
 
-Go to Settings > Pages in your GitHub repo.
+VS Code
 
-Under Source, select the main branch and / (root) folder.
+Git & GitHub
 
-Click Save.
+Google Fonts
 
-Your game will be live at:
-
-https://aditibelwal123.github.io/Rock-paper-scissors-game/
+Font Awesome
 
 🙋‍♂️ Author
 GitHub: @aditibelwal123 
